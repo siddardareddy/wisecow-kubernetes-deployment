@@ -1,0 +1,9 @@
+# TLS private keys and local certificates
+tls/
+
+# Local environment files
+.env
+
+# Python cache
+__pycache__/
+*.pyc
